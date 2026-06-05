@@ -20,6 +20,7 @@ public class PlateController : MonoBehaviour
 
     public void SetVisibility(bool visible, Action callback)
     {
+
         if(visible == _visible)
         {
             callback.Invoke();

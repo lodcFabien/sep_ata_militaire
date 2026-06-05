@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PopupName: COEURAC_NAME
   Description: COEURAC_DESC
-  ProductAsset: {fileID: 919132149155446097, guid: dfa40b29e488d2442a0e39a93138e1b8, type: 3}
+  ProductAsset: {fileID: 919132149155446097, guid: 21cc6c1ca31dd6f4a8db5d0ded8ce572, type: 3}

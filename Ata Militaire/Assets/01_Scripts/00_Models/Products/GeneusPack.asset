@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PopupName: GENEUSPACK_NAME
   Description: GENEUSPACK_DESC
-  ProductAsset: {fileID: 919132149155446097, guid: 28caac42b39bcce4e84a515aafe5552e, type: 3}
+  ProductAsset: {fileID: 919132149155446097, guid: a1df40a23205b704099f8f3932a37270, type: 3}

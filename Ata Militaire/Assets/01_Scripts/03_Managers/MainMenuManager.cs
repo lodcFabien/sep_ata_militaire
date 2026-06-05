@@ -32,12 +32,16 @@ public class MainMenuManager : Singleton<MainMenuManager>
 
     private IEnumerator SetVisibilityCoroutine(bool visible, Action callback)
     {
+        GameManager.Instance.SetInputEnabled(false);
+
         _animPlaying = true;
         _animator.SetBool("Visible", visible);
         while (_animPlaying)
         {
             yield return new WaitForEndOfFrame();
         }
+
+        GameManager.Instance.SetInputEnabled(true);
         callback.Invoke();  
     }
 }

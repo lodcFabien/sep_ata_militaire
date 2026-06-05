@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PopupName: TRU_NAME
   Description: TRU_DESC
-  ProductAsset: {fileID: 919132149155446097, guid: 579dbdb9c114b60479c82cb0e1fcd072, type: 3}
+  ProductAsset: {fileID: 919132149155446097, guid: f232f701a0633484098ea3af2c7e375b, type: 3}

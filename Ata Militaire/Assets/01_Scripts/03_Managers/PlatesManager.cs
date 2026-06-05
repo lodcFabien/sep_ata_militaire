@@ -48,9 +48,11 @@ public class PlatesManager : Singleton<PlatesManager>
         // if there is no plate just display 
         if (_currentPlate == null)
         {
+            GameManager.Instance.SetInputEnabled(false);
+            AircraftTitleManager.Instance.SetCurrentTitle(type);
             nextPlate.SetVisibility(true, () => {
                 _currentPlate = nextPlate;
-                AircraftTitleManager.Instance.SetCurrentTitle(type);
+                GameManager.Instance.SetInputEnabled(true);
             });
         }
         // else hide the previous one and show the next one
@@ -59,12 +61,19 @@ public class PlatesManager : Singleton<PlatesManager>
             PlatesMenuManager.Instance.SetSelectedButton(type);
 
             AircraftTitleManager.Instance.SetCurrentTitle(PlateType.None);
+
+            GameManager.Instance.SetInputEnabled(false);
+
             SetNoPlate(() =>
             {
+                AircraftTitleManager.Instance.SetCurrentTitle(type);
+
                 nextPlate.SetVisibility(true, () =>
                 {
-                    AircraftTitleManager.Instance.SetCurrentTitle(type);
                     _currentPlate = nextPlate;
+
+                    GameManager.Instance.SetInputEnabled(true);
+
                 });
             });
 

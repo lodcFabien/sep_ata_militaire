@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PopupName: MCU_NAME
   Description: MCU_DESC
-  ProductAsset: {fileID: 919132149155446097, guid: 00ebe85b2bc951443a9061971d17f9d8, type: 3}
+  ProductAsset: {fileID: 919132149155446097, guid: 815f631e5e7864040b01359efe19992d, type: 3}

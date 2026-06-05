@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PopupName: GENEUS300_NAME
   Description: GENEUS300_DESC
-  ProductAsset: {fileID: 919132149155446097, guid: 2ef6c569ccc467c4fb51f97a52f59ccd, type: 3}
+  ProductAsset: {fileID: 919132149155446097, guid: da7af472ed8328e47bad3f044a88d0d8, type: 3}

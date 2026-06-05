@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PopupName: GENEUSGRID_NAME
   Description: GENEUSGRID_DESC
-  ProductAsset: {fileID: 919132149155446097, guid: 1427528ba19048444b144ebd7bb63e4e, type: 3}
+  ProductAsset: {fileID: 919132149155446097, guid: a9907f0b3092bc047bd99fcebfe2f7fe, type: 3}

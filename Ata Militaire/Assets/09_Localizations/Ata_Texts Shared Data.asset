@@ -139,6 +139,18 @@ MonoBehaviour:
     m_Key: DRONE_BUTTON
     m_Metadata:
       m_Items: []
+  - m_Id: 152975653241737216
+    m_Key: VOLTAGE_LOW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152975653241737217
+    m_Key: VOLTAGE_MID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152975653241737218
+    m_Key: VOLTAGE_HIGH
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

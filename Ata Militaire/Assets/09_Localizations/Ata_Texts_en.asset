@@ -210,7 +210,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 152955251383717888
-    m_Localized: "S\xE9lectionnez un a\xE9ronef pour explorer nos solutions"
+    m_Localized: Select an aircraft to explore our solutions
     m_Metadata:
       m_Items: []
   - m_Id: 152969346933706752
@@ -227,6 +227,20 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 152970004764151808
     m_Localized: TRANSPORTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152975653241737216
+    m_Localized: '- Low power charges (Computer, avionics, displays)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152975653241737217
+    m_Localized: '- Medium charges (Electrical actuators, fuel pomps, cabin loads,
+      galleys)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152975653241737218
+    m_Localized: '- High-power charges (Motor hybridization, electric taxiing, de-icing,
+      air conditioning)'
     m_Metadata:
       m_Items: []
   references:

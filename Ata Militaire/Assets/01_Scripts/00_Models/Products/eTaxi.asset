@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PopupName: ETAXI_NAME
   Description: ETAXI_DESC
-  ProductAsset: {fileID: 919132149155446097, guid: de0c9beb2aa6c5b49916bbc9ab824817, type: 3}
+  ProductAsset: {fileID: 919132149155446097, guid: 9d601c470ee3fbd4f844aa23d549dffc, type: 3}

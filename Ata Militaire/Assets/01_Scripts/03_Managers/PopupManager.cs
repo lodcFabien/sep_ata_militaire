@@ -22,6 +22,7 @@ public class PopupManager : Singleton<PopupManager>
             _animator.SetBool("Visible", true);
             _title.SetEntry(product.PopupName);
             _description.SetEntry(product.Description);
+            ProductPreviewManager.Instance.SetCurrentProduct(product);
         }
     }
 }

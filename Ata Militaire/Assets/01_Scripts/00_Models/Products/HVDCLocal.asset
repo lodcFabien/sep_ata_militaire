@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PopupName: HVDCLOCAL
   Description: HVDCLOCAL_DESC
-  ProductAsset: {fileID: 919132149155446097, guid: 1fcb629253e0e0243b0ce0633fde658e, type: 3}
+  ProductAsset: {fileID: 919132149155446097, guid: 40e380ed302c8614eac7ba82f9232a9d, type: 3}

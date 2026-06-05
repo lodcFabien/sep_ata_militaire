@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PopupName: COEURDC_NAME
   Description: COEURDC_DESC
-  ProductAsset: {fileID: 919132149155446097, guid: e28334e6cab4d2641b1df004ea8cf3f5, type: 3}
+  ProductAsset: {fileID: 919132149155446097, guid: c6ff77a3ae4da21438d655436430cd8b, type: 3}
