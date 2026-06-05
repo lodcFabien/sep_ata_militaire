@@ -14,6 +14,7 @@ public class Enums
         Transport,
         Fighter,
         Helico,
-        Drone
+        Drone,
+        None
     }
 }

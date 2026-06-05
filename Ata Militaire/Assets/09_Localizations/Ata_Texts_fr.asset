@@ -19,11 +19,245 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 152900788979617792
-    m_Localized: SAFRAN ELECTRICAL & POWER
+    m_Localized: "NOS \xC9QUIPEMENTS AU C\u0152UR DES ARCHITECTURES \xC9LECTRIQUES
+      DE D\xC9FENSE"
     m_Metadata:
       m_Items: []
   - m_Id: 152908848712241152
     m_Localized: RETOUR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031233101824
+    m_Localized: BATTERIE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031258267648
+    m_Localized: "<b>Flexibilit\xE9 et puissance</b>\nLe syst\xE8me de batterie haute
+      tension de Safran x Saft ouvre la voie \xE0 une v\xE9ritable r\xE9volution
+      de l\u2019\xE9nergie embarqu\xE9e, gr\xE2ce \xE0 des packs connect\xE9s en
+      parall\xE8le atteignant 800 VDC. Les packs sont configurables pour s\u2019adapter
+      aux besoins de puissance et d\u2019\xE9nergie de l'a\xE9ronef. \n\n<b>Conception
+      modulaire</b>\nLes modules, ajustables en longueur pour s\u2019adapter aux
+      sp\xE9cificit\xE9s de chaque a\xE9ronef, int\xE8grent parfaitement leurs contraintes
+      d\u2019installation. Con\xE7us en mat\xE9riau composite et dot\xE9s d\u2019un
+      refroidissement liquide, ils assurent un haut niveau de s\xE9curit\xE9 tout
+      en r\xE9pondant aux exigences strictes de l'industrie a\xE9ronautique.\n\n<b>Technologie
+      cellulaire innovante</b>\nLa technologie LMFP-blend a \xE9t\xE9 s\xE9lectionn\xE9e
+      comme premi\xE8re solution en raison de son bon compromis entre performance
+      (280 Wh/kg, 2000 W/kg) et s\xE9curit\xE9. La technologie tout solide, visant
+      des performances encore sup\xE9rieures (400 Wh/kg, 1600 W/kg) constitue la
+      prochaine \xE9tape de d\xE9veloppement. Les formats de cellules pouch avec
+      languettes oppos\xE9es sont configurables de 15 Ah \xE0 55 Ah pour s'adapter
+      au dimensionnement de la batterie en faisant varier uniquement l\u2019\xE9paisseur
+      de la cellule.\n\n\u2022 Flexibilit\xE9 et puissance in\xE9dite\n\n\u2022 Desgin
+      modulaire\n\n\u2022 Electrochimie innovante, \ndu LMFP-blend au solid state "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461952
+    m_Localized: ' COEUR AC'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461953
+    m_Localized: "La distribution \xE9lectrique joue un r\xF4le essentiel pour alimenter
+      efficacement et en toute s\xE9curit\xE9 tous les syst\xE8mes \xE0 bord. Elle
+      fournit l\u2019\xE9nergie aux \xE9quipements courants comme l'\xE9clairage
+      ou la climatisation, mais aussi aux syst\xE8mes critiques tels que l'avionique
+      et les commandes de vol. \n\nCon\xE7u avec des redondances et des solutions
+      de secours, le syst\xE8me garantit une continuit\xE9 de service m\xEAme en
+      cas de d\xE9faillance. La s\xE9curit\xE9 est renforc\xE9e gr\xE2ce \xE0 des
+      protections contre les surcharges et les courts-circuits, ainsi qu'\xE0 des
+      outils de surveillance en temps r\xE9el permettant de d\xE9tecter et d'isoler
+      les pannes. Ainsi, la distribution \xE9lectrique assure l'efficacit\xE9, la
+      fiabilit\xE9 et la s\xE9curit\xE9 des op\xE9rations a\xE9riennes.\n\n\u2022
+      Alimentation continue\n\n\u2022 Protection contre les arcs\n\n\u2022 Haute
+      fiabilit\xE9 du syst\xE8me"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461954
+    m_Localized: COEUR DC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461955
+    m_Localized: "La distribution \xE9lectrique joue un r\xF4le essentiel pour alimenter
+      efficacement et en toute s\xE9curit\xE9 tous les syst\xE8mes \xE0 bord. Elle
+      fournit l\u2019\xE9nergie aux \xE9quipements courants comme l'\xE9clairage
+      ou la climatisation, mais aussi aux syst\xE8mes critiques tels que l'avionique
+      et les commandes de vol. \n\nCon\xE7u avec des redondances et des solutions
+      de secours, le syst\xE8me garantit une continuit\xE9 de service m\xEAme en
+      cas de d\xE9faillance. La s\xE9curit\xE9 est renforc\xE9e gr\xE2ce \xE0 des
+      protections contre les surcharges et les courts-circuits, ainsi qu'\xE0 des
+      outils de surveillance en temps r\xE9el permettant de d\xE9tecter et d'isoler
+      les pannes. Ainsi, la distribution \xE9lectrique assure l'efficacit\xE9, la
+      fiabilit\xE9 et la s\xE9curit\xE9 des op\xE9rations a\xE9riennes.\n\n\u2022
+      Alimentation continue\n\n\u2022 Protection contre les arcs\n\n\u2022 Haute
+      fiabilit\xE9 du syst\xE8me"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461956
+    m_Localized: LHBCU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461957
+    m_Localized: "Le LHBCU est un convertisseur bidirectionnel haute performance
+      permettant d\u2019interfacer un r\xE9seau 800 VDC et un r\xE9seau 28 VDC, avec
+      un rendement exceptionnel > 97%. Sa puissance est modulable en fonction des
+      besoins, gr\xE2ce \xE0 la mise en parall\xE8le de plusieurs modules.\n\nIl
+      peut s\u2019adapter \xE0 diff\xE9rents types de r\xE9seaux \xE9lectriques,
+      assurer la recharge de batteries, et int\xE8gre des solutions d\u2019isolement
+      renforc\xE9 conformes aux exigences de s\xFBret\xE9 les plus strictes.\n\n\u2022
+      Conversion bidirectionnelle\n\n\u2022 Efficacit\xE9 exceptionnelle\n\n\u2022
+      S\xE9curit\xE9 renforc\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461958
+    m_Localized: GENeUS 300
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461959
+    m_Localized: "GENeUS 300 est le premier produit de la famille de moteurs/g\xE9n\xE9rateurs
+      intelligents \xE0 haute vitesse. \n\nCette machine synchrone \xE0 aimants permanents
+      r\xE9pond aux enjeux de la forte puissance en alimentant un r\xE9seau HVDC
+      vers les charges HV (trains d\u2019aterrissage, eTaxi, d\xE9givrage\u2026)
+      et/ou vers les moteurs \xE9lectriques de propulsion \u2013 la TGEN600 int\xE9gre
+      deux GENeUS 300. La gestion active du courant a \xE9t\xE9 con\xE7ue pour r\xE9pondre
+      aux fortes sollicitations des r\xE9seaux \xE9lectriques afin d\u2019assurer
+      une stabilit\xE9 du courant dans les environnements difficiles. \n\nLe GENeUS
+      300 peut \xEAtre configur\xE9 en deux canaux ind\xE9pendants. Il fait partie
+      de la gamme ePower, qui couvre l\u2019ensemble de la cha\xEEne de propulsion
+      \xE9lectrique pour les plateformes hybrides et tout \xE9lectriques, et constitue
+      un candidat id\xE9al pour l\u2019hybridation des Turbofans via une int\xE9gration
+      sur l\u2019arbre haute pression.\n\n\u2022 Deux canaux grande vitesse\n\n\u2022
+      Gestion stable du courant\n\n\u2022 Adapt\xE9 aux a\xE9ronefs hybrides"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461960
+    m_Localized: VFSG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461962
+    m_Localized: HVDC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461963
+    m_Localized: "La distribution \xE9lectrique joue un r\xF4le essentiel pour alimenter
+      efficacement et en toute s\xE9curit\xE9 tous les syst\xE8mes \xE0 bord. Elle
+      fournit l\u2019\xE9nergie aux \xE9quipements courants comme l'\xE9clairage
+      ou la climatisation, mais aussi aux syst\xE8mes critiques tels que l'avionique
+      et les commandes de vol. \n\nCon\xE7u avec des redondances et des solutions
+      de secours, le syst\xE8me garantit une continuit\xE9 de service m\xEAme en
+      cas de d\xE9faillance. La s\xE9curit\xE9 est renforc\xE9e gr\xE2ce \xE0 des
+      protections contre les surcharges et les courts-circuits, ainsi qu'\xE0 des
+      outils de surveillance en temps r\xE9el permettant de d\xE9tecter et d'isoler
+      les pannes. Ainsi, la distribution \xE9lectrique assure l'efficacit\xE9, la
+      fiabilit\xE9 et la s\xE9curit\xE9 des op\xE9rations a\xE9riennes.\n\n\u2022
+      Alimentation continue\n\n\u2022 Protection contre les arcs\n\n\u2022 Haute
+      fiabilit\xE9 du syst\xE8me"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461964
+    m_Localized: MCU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461965
+    m_Localized: "Ce convertisseur r\xE9versible permet de piloter, \xE0 partir d\u2019un
+      r\xE9seau HVDC, diff\xE9rents actionneurs \xE9lectriques (trains d\u2019atterrissage,
+      eTaxi, compresseur, d\xE9givrage). \n\nLes Motor Controller Units (MCU) int\xE8grent
+      les technologies les plus avanc\xE9es du march\xE9, atteignant des densit\xE9s
+      de puissance de l\u2019ordre de 10 kW/kg pour des environnements s\xE9v\xE8res
+      (zone moteur non-pressuris\xE9es). \n\nDisponibles dans une gamme de puissance
+      de quelques kilowatts \xE0 250 kW, les MCU sont propos\xE9s avec diff\xE9rents
+      syst\xE8mes de refroidissement, \xE0 air ou liquide.\n\n\u2022 Convertisseur
+      r\xE9versible\n\n\u2022 Forte densit\xE9 de puissance\n\n\u2022 Refroidissement
+      adaptable"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461967
+    m_Localized: "L\u2019Onduleur R\xE9seau, ou Network Converter, est un convertisseur
+      de puissance permettant, par exemple, d\u2019interfacer un r\xE9seau HVDC propulsif
+      avec un autre r\xE9seau 115 VAC ou 230 VAC non propulsif, afin de tirer le
+      plein potentiel des nouvelles technologies d\u2019hybridation.\n\nDot\xE9 d'un
+      isolement galvanique renforc\xE9, il garantit un tr\xE8s haut niveau de fiabilit\xE9
+      et de s\xE9curit\xE9.\n\nCe convertisseur repose sur des briques technologiques
+      communes avec les MCU et le TRU, issues du savoir-faire et de l\u2019expertise
+      de Safran.\n\n\u2022 Interface multi-r\xE9seaux\n\n\u2022 Isolation galvanique
+      renforc\xE9e\n\n\u2022 S\xE9curit\xE9 accrue"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031266656256
+    m_Localized: "Le TRU (Transformer Rectifier Unit) est con\xE7u pour adapter les
+      niveaux de tension. Il peut convertir une entr\xE9e de 115V AC ou 230V AC en
+      une sortie isol\xE9e de 28V jusqu\u2019\xE0 des courants de 400 ADC. Les TRU
+      sont des convertisseurs passifs, c\u2019est-\xE0-dire fonctionnant de mani\xE8re
+      purement autonome, sans composant complexe. \n\nGr\xE2ce \xE0 cette sp\xE9cificit\xE9
+      et au savoir-faire et \xE0 l'expertise de Safran, les TRU affichent des niveaux
+      de fiabilit\xE9 exceptionnels, avec des MTBF (Mean Time Between Failures) de
+      plusieurs millions d\u2019heure de vols.\n\nPar ailleurs, Safran a d\xE9velopp\xE9
+      des solutions de r\xE9duction du bruit acoustique et d\u2019isolation renforc\xE9e
+      permettant d\u2019installer le TRU dans les environnements les plus exigeants,
+      tant en mati\xE8re de s\xE9curit\xE9 que de confort.\n\n\u2022 Fiabilit\xE9
+      exceptionnelle\n\n\u2022 Courant \xE9l\xE9v\xE9 en sortie\n\n\u2022 Niveau
+      sonore r\xE9duit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152939225816354816
+    m_Localized: "Le GENeUS VFSG repr\xE9sente une avanc\xE9e majeure dans le domaine
+      des g\xE9n\xE9rateurs \xE0 fr\xE9quence variable utilisant des machines synchrones
+      \xE0 rotor bobin\xE9. \n\nContrairement \xE0 de nombreuses solutions concurrentes,
+      il ne recourt \xE0 aucun aimant en terres rares dans le rotor principal. Il
+      alimente les r\xE9seaux 115V et 230V de la plateforme. \n\nPar rapport \xE0
+      la concurrence, il offre au march\xE9 une r\xE9duction de 50 % des pertes,
+      tout en offrant un gain significatif en poids et en encombrement. R\xE9sultat
+      : une am\xE9lioration notable de l'efficacit\xE9 \xE9nerg\xE9tique des machines.\n\n\u2022
+      Rotor principal sans utilisation de terres rares\n\n\u2022 Configurable en
+      mode 115/230V\n\n\u2022 Qualit\xE9 de puissance exceptionnelle "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152947474955358208
+    m_Localized: '
+
+      AVIONS DE TRANSPORT MILITAIRE'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152947474984718336
+    m_Localized: '
+
+      AVIONS DE CHASSE MILITAIRE'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152947474984718337
+    m_Localized: "\nH\xC9LICOPT\xC8RE MILITAIRE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152947474984718338
+    m_Localized: DRONE  MILITAIRE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152954622040985600
+    m_Localized: NAC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152954622070345728
+    m_Localized: TRU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152955251383717888
+    m_Localized: Select an aircraft to explore our solutions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152969346933706752
+    m_Localized: CHASSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152969346933706753
+    m_Localized: "H\xC9LICOPT\xC8RE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152969346933706754
+    m_Localized: DRONE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152970004764151808
+    m_Localized: TRANSPORTEUR
     m_Metadata:
       m_Items: []
   references:

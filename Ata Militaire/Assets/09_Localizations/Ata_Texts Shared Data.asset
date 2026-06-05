@@ -23,6 +23,122 @@ MonoBehaviour:
     m_Key: BACK
     m_Metadata:
       m_Items: []
+  - m_Id: 152936031233101824
+    m_Key: BATTERY_NAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031258267648
+    m_Key: BATTERY_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461952
+    m_Key: COEURAC_NAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461953
+    m_Key: COEURAC_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461954
+    m_Key: COEURDC_NAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461955
+    m_Key: COEURDC_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461956
+    m_Key: CORALIE_NAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461957
+    m_Key: CORALIE_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461958
+    m_Key: GENEUS300_NAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461959
+    m_Key: GENEUS300_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461960
+    m_Key: GENEUSVFSG_NAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152939225816354816
+    m_Key: GENEUSVFSG_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461962
+    m_Key: HVDC_NAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461963
+    m_Key: HVDC_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461964
+    m_Key: MCU_NAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461965
+    m_Key: MCU_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152954622040985600
+    m_Key: NAC_NAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461967
+    m_Key: NAC_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152954622070345728
+    m_Key: TRU_NAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031266656256
+    m_Key: TRU_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152947474955358208
+    m_Key: TRANSPORT_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152947474984718336
+    m_Key: FIGHTER_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152947474984718337
+    m_Key: HELICO_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152947474984718338
+    m_Key: DRONE_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152955251383717888
+    m_Key: SUBTITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152970004764151808
+    m_Key: TANSPORT_BUTTON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152969346933706752
+    m_Key: FIGHTER_BUTTON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152969346933706753
+    m_Key: HELICO_BUTTON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152969346933706754
+    m_Key: DRONE_BUTTON
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

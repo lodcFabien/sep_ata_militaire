@@ -19,11 +19,214 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 152900788979617792
-    m_Localized: SAFRAN ELECTRICAL & POWER
+    m_Localized: OUR EQUIPMENT AT THE CORE OF DEFENSE ELECTRICAL ARCHITECTURES
     m_Metadata:
       m_Items: []
   - m_Id: 152908848712241152
     m_Localized: BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031233101824
+    m_Localized: BATTERY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031258267648
+    m_Localized: "<b>Scalability and Power</b>\nThe high-voltage battery system by
+      Safran x Saft paves the way for a true revolution in onboard energy, thanks
+      to packs connected in parallel reaching up to 800 VDC. These packs are configurable 
+      to meet the power and energy requirements of the aircraft.\n\n<b>Modular Design</b>\nThe
+      modules, adjustable in length to suit the requirements of each aircraft, are
+      designed for seamless integration. Made from composite material with liquid
+      cooling, they ensure advanced safety, adhering to the strict standards of the
+      aerospace industry.\n\n<b>Innovative Cell Technology</b>\nThe LMFP-blend technology
+      was selected as the first solution for its optimal balance between performance
+      (280 Wh/kg, 2000 W/kg) and safety. Solid-state technology, targeting even higher
+      performance levels (400 Wh/kg, 1600 W/kg) ) represents the next development
+      stage. Pouch cell formats with opposing tabs are configurable from 15 Ah to
+      55 Ah, allowing battery sizing adjustments by varying only the cell thickness.\n\n\u2022
+      Unmatched Scalability and Power\n\n\u2022 Modular design\n\n\u2022 Innovative
+      Electrochemistry, \nfrom LMFP-blend to Solid-State"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461952
+    m_Localized: AC DISTRIBUTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461953
+    m_Localized: "Electrical distribution is crucial for efficiently and safely powering
+      all onboard systems. It provides power to standard equipment such as lighting
+      and air conditioning, as well as critical systems like avionics and flight
+      controls. \n\nThe system is designed with redundancies and backup solutions
+      to ensure continuous availability, even during failures. Safety is enhanced
+      by protections against overloads and short circuits, as well as real-time monitoring
+      tools to identify and isolate faults. Thus, the electrical distribution ensures
+      the efficiency, reliability, and safety of aviation operations.\n\n\u2022 Continuous
+      power supply\n\n\u2022 Fault protection\n\n\u2022 System reliability"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461954
+    m_Localized: DC DISTRIBUTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461955
+    m_Localized: "Electrical distribution is crucial for efficiently and safely powering
+      all onboard systems. It provides power to standard equipment such as lighting
+      and air conditioning, as well as critical systems like avionics and flight
+      controls. \n\nThe system is designed with redundancies and backup solutions
+      to ensure continuous availability, even during failures. Safety is enhanced
+      by protections against overloads and short circuits, as well as real-time monitoring
+      tools to identify and isolate faults. Thus, the electrical distribution ensures
+      the efficiency, reliability, and safety of aviation operations.\n\n\u2022 Continuous
+      power supply\n\n\u2022 Fault protection\n\n\u2022 System reliability"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461956
+    m_Localized: LHBCU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461957
+    m_Localized: "The Low High Bidirectional Charger Unit (LHBCU) is a high-performance
+      bidirectional converter that interfaces an 800 VDC network with a 28 VDC network,
+      delivering an exceptional efficiency of > 97%. \n\nThe available power can
+      be adapted according to need by paralleling modules. It is capable of interfacing
+      with various types of electrical networks, charging a battery, and incorporates
+      reinforced isolation solutions in compliance with the most stringent safety
+      requirements.\n\n\u2022 Bidirectionnal conversion\n\n\u2022 Exceptional efficiency\n\n\u2022
+      Enhanced safety"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461958
+    m_Localized: GENeUS 300
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461959
+    m_Localized: "GENeUS 300 is the first product in the family of high-speed smart
+      motors/generators. \n\nIt's a permanent magnet synchronous machine. Addressing
+      high-power challenges, it enables the powering of an HVDC network for HV loads
+      (landing gear, eTaxi, de-icing...) and/or for propulsion electric motors\u2014with
+      the TGEN600 incorporating two GENeUS 300 units. Active current management is
+      designed to meet the demanding requirements of electrical networks and ensure
+      current stability in challenging environments. \n\nGENeUS 300 can be configured
+      as two independent channels. GENeUS high-speed intelligent motor/generators
+      are part of the ePower range, covering the entire electric propulsion chain
+      and designed for hybrid and all-electric aircraft. It is also an ideal candidate
+      for TurboFan hybridization for integration on the high-pressure shaft.\n\n\u2022
+      High-speed dual channels\n\n\u2022 Stable current management\n\n\u2022 Suited
+      for hybrid aircraft"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461960
+    m_Localized: VFSG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461962
+    m_Localized: HVDC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461963
+    m_Localized: "Electrical distribution is crucial for efficiently and safely powering
+      all onboard systems. It provides power to standard equipment such as lighting
+      and air conditioning, as well as critical systems like avionics and flight
+      controls. \n\nThe system is designed with redundancies and backup solutions
+      to ensure continuous availability, even during failures. Safety is enhanced
+      by protections against overloads and short circuits, as well as real-time monitoring
+      tools to identify and isolate faults. Thus, the electrical distribution ensures
+      the efficiency, reliability, and safety of aviation operations.\n\n\u2022 Continuous
+      power supply\n\n\u2022 Fault protection\n\n\u2022 System reliability"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461964
+    m_Localized: MCU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461965
+    m_Localized: "This reversible converter enables the control of electric motors
+      (landing gear, eTaxi, compressor, de-icing) from an HVDC network. \n\nThe Motor
+      Controller Units (MCU) are built around the best technologies available on
+      the market, achieving power densities of around 10 kW/kg for harsh environments
+      (non-pressurized engine zones).\n\n The MCUs cover a range from a few kW up
+      to 250 kW with different cooling technologies (air or liquid).\n\n\u2022 Reversible
+      converter\n\n\u2022 High power density\n\n\u2022 Adaptable cooling system"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031262461967
+    m_Localized: "The Network Converter, is a converter that enables, for example,
+      the interfacing of a propulsive HVDC network with another non-propulsive 115
+      VAC or 230 VAC network, to fully leverage the potential of new hybrid technologies.
+      \n\nThis converter incorporates a highly reliable reinforced galvanic isolation
+      that ensures an exceptional level of safety. \n\nThe converter shares common
+      building blocks with the MCUs and TRUs, drawing from Safran\u2019s expertise
+      and experience.\n\n\u2022 Multi-network interfacing\n\n\u2022 Reinforced galvanic
+      isolation\n\n\u2022 Enhanced safety"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152936031266656256
+    m_Localized: "The Transformer Rectifier Unit (TRU) is designed to modify voltage
+      levels. It can convert an input of 115V AC or 230V AC into an isolated 28V
+      output with currents up to 400 ADC. TRUs are passive converters, meaning they
+      operate purely autonomously, without complex components.\n\nThis characteristic,
+      combined with Safran's expertise and experience, allows them to achieve exceptional
+      reliability levels, with MTBF (Mean Time Between Failures) reaching several
+      million flight hours. \n\nAdditionally, Safran has developed solutions for
+      reducing acoustic noise and enhanced isolation solutions, enabling the TRU
+      to be installed in the most demanding environments in terms of safety and comfort.\n\n\u2022
+      Exceptional reliability\n\n\u2022 High current output\n\n\u2022 Low acoustic
+      noise"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152939225816354816
+    m_Localized: "GENeUS VFSG represents a major breakthrough in variable frequency
+      generator technology using synchronous machines with wound rotors. \n\nIt does
+      not incorporate rare earth magnets in the main rotor. The generator supplies
+      both 115V and 230V networks on the platform. \n\nCompared to competitors, it
+      offers a 50% reduction in losses and enhances competitiveness in terms of weight
+      and size, while increasing the energy efficiency of the machines. \n\n\u2022
+      Main rotor is magnet-free\n\n\u2022 Configurable in 115V/230V modes\n\n\u2022
+      Outstanding power quality"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152947474955358208
+    m_Localized: MILITARY TRANSPORT AIRCRAFT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152947474984718336
+    m_Localized: MILITARY FIGHTER AIRCRAFT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152947474984718337
+    m_Localized: MILITARY HELICOPTER AIRCRAFT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152947474984718338
+    m_Localized: MILITARY DRONE  AIRCRAFT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152954622040985600
+    m_Localized: NAC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152954622070345728
+    m_Localized: TRU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152955251383717888
+    m_Localized: "S\xE9lectionnez un a\xE9ronef pour explorer nos solutions"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152969346933706752
+    m_Localized: FIGHTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152969346933706753
+    m_Localized: HELICOPTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152969346933706754
+    m_Localized: DRONE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152970004764151808
+    m_Localized: TRANSPORTER
     m_Metadata:
       m_Items: []
   references:
