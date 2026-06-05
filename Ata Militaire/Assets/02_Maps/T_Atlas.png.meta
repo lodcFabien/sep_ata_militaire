@@ -307,6 +307,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: T_Frame
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 479
+        width: 247
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 19, y: 22, z: 24, w: 20}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d45657aa73d4904891719c12b309fab
+      internalID: 1064490205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -325,6 +347,7 @@ TextureImporter:
       T_Drone_Selected: -1198678564
       T_Fighter_Normal: 1523335266
       T_Fighter_Selected: 5012777
+      T_Frame: 1064490205
       T_Helico_Normal: -1862823657
       T_Helico_Selected: 309871498
       T_SafranLogo: 356057512
