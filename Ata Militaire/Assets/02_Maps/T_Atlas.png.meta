@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
+    enableMipMap: 1
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -329,6 +329,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: T_PlusButton
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1510
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c505b99e104a34142bcacd401e133de3
+      internalID: 757440222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -350,6 +372,7 @@ TextureImporter:
       T_Frame: 1064490205
       T_Helico_Normal: -1862823657
       T_Helico_Selected: 309871498
+      T_PlusButton: 757440222
       T_SafranLogo: 356057512
       T_Transport_Normal: 1740678153
       T_Transport_Selected: -679421915

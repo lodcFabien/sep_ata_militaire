@@ -44,7 +44,7 @@ public class ProductPreviewManager : Singleton<ProductPreviewManager>
 
         _currentProduct = Instantiate(model.ProductAsset, _spawnPoint);
         _currentProduct.layer = LayerMask.NameToLayer("3D");
-        _currentProduct.transform.localRotation = Quaternion.Euler(-20, -35, 15);
+        _currentProduct.transform.localRotation = Quaternion.Euler(18, -30, 0);
         FitCameraToObject(_camera,_currentProduct);
     }
 
@@ -71,7 +71,7 @@ public class ProductPreviewManager : Singleton<ProductPreviewManager>
         // Distance nécessaire pour voir tout l'objet
         float distance = (objectSize / 2f) / Mathf.Tan(fov / 2f);
 
-        _spawnPoint.transform.localPosition = new Vector3(0, 0, distance * -.15f);
+        _spawnPoint.transform.localPosition = new Vector3(0, 0, distance * -.1f);
     }
 
     private void HandleAutoRotation() 
