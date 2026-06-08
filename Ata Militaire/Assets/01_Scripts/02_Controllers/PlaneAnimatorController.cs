@@ -7,6 +7,10 @@ public class PlaneAnimatorController : MonoBehaviour
 
     private void Update()
     {
+        if (PopupManager.Instance.hasContent)
+        {
+            return;
+        }
         _thisRectTransform.position = _followRectTransform.position;
     }
 }

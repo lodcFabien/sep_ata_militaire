@@ -213,19 +213,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 152947474955358208
-    m_Localized: '
-
-      AVIONS DE TRANSPORT MILITAIRE'
+    m_Localized: AVIONS DE TRANSPORT MILITAIRE
     m_Metadata:
       m_Items: []
   - m_Id: 152947474984718336
-    m_Localized: '
-
-      AVIONS DE CHASSE MILITAIRE'
+    m_Localized: AVIONS DE CHASSE MILITAIRE
     m_Metadata:
       m_Items: []
   - m_Id: 152947474984718337
-    m_Localized: "\nH\xC9LICOPT\xC8RE MILITAIRE"
+    m_Localized: "H\xC9LICOPT\xC8RE MILITAIRE"
     m_Metadata:
       m_Items: []
   - m_Id: 152947474984718338

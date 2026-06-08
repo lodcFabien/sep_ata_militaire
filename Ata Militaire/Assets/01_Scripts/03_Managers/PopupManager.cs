@@ -9,12 +9,15 @@ public class PopupManager : Singleton<PopupManager>
     private ProductModel _currentModel;
     public ProductModel CurrentModel => _currentModel;
 
+    public bool hasContent = false;
+
     public void Populate(ProductModel product)
     {
         _currentModel = product;
 
         if (product == null)
         {
+            hasContent = false;
             _animator.SetBool("Visible", false);
         }
         else

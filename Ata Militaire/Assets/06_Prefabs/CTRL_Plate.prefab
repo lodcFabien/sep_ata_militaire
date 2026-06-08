@@ -1299,7 +1299,7 @@ PrefabInstance:
     - target: {fileID: 3378909403586652551, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
       propertyPath: m_text
       value: "- Charges de forte puissance (Hybridation moteur, taxiage \xE9lectrique,
-        d\xE9givrage, conditionnement d'air)"
+        d\xE9givrage, conditionnement d'air)\n"
       objectReference: {fileID: 0}
     - target: {fileID: 5294140523689254726, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
       propertyPath: m_Name
@@ -1443,13 +1443,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3378909403586652551, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
+      propertyPath: m_text
+      value: '- Medium charges (Electrical actuators, fuel pomps, cabin loads, galleys)'
+      objectReference: {fileID: 0}
     - target: {fileID: 5294140523689254726, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
       propertyPath: m_Name
       value: CTRL_Voltage_Mid
       objectReference: {fileID: 0}
     - target: {fileID: 8611039441622661465, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 80
+      value: 100
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2073,7 +2077,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8611039441622661465, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 75
+      value: 100
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -15,6 +15,7 @@ public class ProductButtonController : MonoBehaviour
 
     public void Click()
     {
+        PopupManager.Instance.hasContent = true;
         VoletManager.Instance.SetState(Enums.AppState.Popup);
         PlatesManager.Instance.SetNoPlate(() => { });
         StopAllCoroutines();

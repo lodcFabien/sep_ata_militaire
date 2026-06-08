@@ -44,7 +44,8 @@ public class ProductPreviewManager : Singleton<ProductPreviewManager>
 
         _currentProduct = Instantiate(model.ProductAsset, _spawnPoint);
         _currentProduct.layer = LayerMask.NameToLayer("3D");
-        _currentProduct.transform.localRotation = Quaternion.Euler(18, -30, 0);
+        _currentProduct.transform.localRotation = Quaternion.Euler(-20, 230, 0);
+        _spawnPoint.transform.localEulerAngles = Vector3.zero;
         FitCameraToObject(_camera,_currentProduct);
     }
 
