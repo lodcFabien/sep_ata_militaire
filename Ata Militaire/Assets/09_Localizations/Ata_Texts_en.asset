@@ -19,7 +19,7 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 152900788979617792
-    m_Localized: OUR EQUIPMENT AT THE CORE OF DEFENSE ELECTRICAL ARCHITECTURES
+    m_Localized: "OUR EQUIPMENT AT THE CORE OF \nDEFENSE ELECTRICAL ARCHITECTURES"
     m_Metadata:
       m_Items: []
   - m_Id: 152908848712241152
@@ -45,7 +45,7 @@ MonoBehaviour:
       stage. Pouch cell formats with opposing tabs are configurable from 15 Ah to
       55 Ah, allowing battery sizing adjustments by varying only the cell thickness.\n\n\u2022
       Unmatched Scalability and Power\n\n\u2022 Modular design\n\n\u2022 Innovative
-      Electrochemistry, \nfrom LMFP-blend to Solid-State"
+      Electrochemistry, from LMFP-blend to Solid-State"
     m_Metadata:
       m_Items: []
   - m_Id: 152936031262461952

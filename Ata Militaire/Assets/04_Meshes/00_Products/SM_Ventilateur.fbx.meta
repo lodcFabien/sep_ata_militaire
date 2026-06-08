@@ -3,7 +3,12 @@ guid: e60e7f91b3f6aec4c91f54c35b9243d9
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ventilateur
+    second: {fileID: 2100000, guid: 49b15d0242b5e27449fdb1f1de9c91ac, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
