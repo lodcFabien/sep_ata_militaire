@@ -24,7 +24,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 152908848712241152
-    m_Localized: RETOUR
+    m_Localized: <size=90%>RETOUR
     m_Metadata:
       m_Items: []
   - m_Id: 152936031233101824
@@ -213,11 +213,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 152947474955358208
-    m_Localized: AVIONS DE TRANSPORT MILITAIRE
+    m_Localized: AVION DE TRANSPORT MILITAIRE
     m_Metadata:
       m_Items: []
   - m_Id: 152947474984718336
-    m_Localized: AVIONS DE CHASSE MILITAIRE
+    m_Localized: AVION DE CHASSE
     m_Metadata:
       m_Items: []
   - m_Id: 152947474984718337
@@ -241,7 +241,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 152969346933706752
-    m_Localized: CHASSE
+    m_Localized: CHASSEUR
     m_Metadata:
       m_Items: []
   - m_Id: 152969346933706753
@@ -253,21 +253,21 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 152970004764151808
-    m_Localized: TRANSPORTEUR
+    m_Localized: <size=90%>TRANSPORTEUR
     m_Metadata:
       m_Items: []
   - m_Id: 152975653241737216
-    m_Localized: "- Charges critiques et de faible puissance (Calculateur, avionique,
+    m_Localized: "Charges critiques et de faible puissance (Calculateur, avionique,
       instruments, \xE9clairage de secours)"
     m_Metadata:
       m_Items: []
   - m_Id: 152975653241737217
-    m_Localized: "- Charges de moyenne puissance (Actionneurs \xE9lectriques, pompes
+    m_Localized: "Charges de moyenne puissance (Actionneurs \xE9lectriques, pompes
       \xE0 carburant, chargements des cabines, cuisines)"
     m_Metadata:
       m_Items: []
   - m_Id: 152975653241737218
-    m_Localized: "- Charges de forte puissance (Hybridation moteur, taxiage \xE9lectrique,
+    m_Localized: "Charges de forte puissance (Hybridation moteur, taxiage \xE9lectrique,
       d\xE9givrage, conditionnement d'air)"
     m_Metadata:
       m_Items: []

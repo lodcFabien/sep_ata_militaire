@@ -13,6 +13,8 @@ public class PlateButtonController : MonoBehaviour
     [SerializeField] private Image _normalImage;
     [SerializeField] private Image _selectImage;
 
+    private bool _selected = false;
+
     private void Awake()
     {
         SetSelected(false);
@@ -26,7 +28,16 @@ public class PlateButtonController : MonoBehaviour
         }
         else
         {
-            PlatesManager.Instance.SetCurrentPlate(_plateType);
+            if (_selected)
+            {
+                PlatesManager.Instance.SetCurrentPlate(PlatesManager.Instance.PreviousPlate.Type);
+                PopupManager.Instance.OnBackStopHasContent();
+            }
+            else
+            {
+                PopupManager.Instance.hasContent = false;
+                PlatesManager.Instance.SetCurrentPlate(_plateType);
+            }
         }
     }
 
@@ -42,7 +53,7 @@ public class PlateButtonController : MonoBehaviour
 
     public void SetSelected(bool selected)
     {
-        Debug.Log(selected);
+        _selected = selected;
 
         _normalImage.gameObject.SetActive(!selected);
         _selectImage.gameObject.SetActive(selected);

@@ -72,7 +72,7 @@ public class ProductPreviewManager : Singleton<ProductPreviewManager>
         // Distance nécessaire pour voir tout l'objet
         float distance = (objectSize / 2f) / Mathf.Tan(fov / 2f);
 
-        _spawnPoint.transform.localPosition = new Vector3(0, 0, distance * -.1f);
+        _spawnPoint.transform.localPosition = new Vector3(0, 0, distance);
     }
 
     private void HandleAutoRotation() 

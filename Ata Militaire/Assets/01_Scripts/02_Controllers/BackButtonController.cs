@@ -17,6 +17,7 @@ public class BackButtonController : MonoBehaviour
         else
         {
             PlatesManager.Instance.SetCurrentPlate(PlatesManager.Instance.PreviousPlate.Type);
+            PopupManager.Instance.OnBackStopHasContent();
         }
     }
 }

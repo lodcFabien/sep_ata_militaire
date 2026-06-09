@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.Localization.Components;
 
@@ -17,7 +18,6 @@ public class PopupManager : Singleton<PopupManager>
 
         if (product == null)
         {
-            hasContent = false;
             _animator.SetBool("Visible", false);
         }
         else
@@ -27,5 +27,16 @@ public class PopupManager : Singleton<PopupManager>
             _description.SetEntry(product.Description);
             ProductPreviewManager.Instance.SetCurrentProduct(product);
         }
+    }
+
+    public void OnBackStopHasContent()
+    {
+        StartCoroutine(StopHasContentCoroutine());
+    }
+
+    private IEnumerator StopHasContentCoroutine()
+    {
+        yield return new WaitForSeconds(1f);
+        hasContent = false;
     }
 }
