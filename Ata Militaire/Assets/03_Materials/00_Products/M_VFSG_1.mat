@@ -68,10 +68,11 @@ Material:
     - _DarkMode: 0
     - _Float: 0
     - _MetallicMultiplier: 1
+    - _NormalIntensity: 5
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _SmoothnessMultiplier: 0.48
+    - _SmoothnessMultiplier: 1
     m_Colors:
-    - _ColorMultiplier: {r: 0.404, g: 0.404, b: 0.404, a: 1}
+    - _ColorMultiplier: {r: 0.645, g: 0.645, b: 0.645, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
