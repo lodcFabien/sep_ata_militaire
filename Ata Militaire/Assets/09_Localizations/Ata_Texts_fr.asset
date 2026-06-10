@@ -229,7 +229,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 152954622040985600
-    m_Localized: NAC
+    m_Localized: NC
     m_Metadata:
       m_Items: []
   - m_Id: 152954622070345728
@@ -257,18 +257,18 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 152975653241737216
-    m_Localized: "Charges critiques et de faible puissance (Calculateur, avionique,
-      instruments, \xE9clairage de secours)"
+    m_Localized: "Charges \xE9lectriques de faibles consommations <size=85%>(calculateurs,
+      avionique, \xE9crans)"
     m_Metadata:
       m_Items: []
   - m_Id: 152975653241737217
-    m_Localized: "Charges de moyenne puissance (Actionneurs \xE9lectriques, pompes
-      \xE0 carburant, chargements des cabines, cuisines)"
+    m_Localized: "Charges \xE9lectriques de moyennes consommations <size=85%>(actionneurs,
+      pompes carburant, charges cabine et commerciales)"
     m_Metadata:
       m_Items: []
   - m_Id: 152975653241737218
-    m_Localized: "Charges de forte puissance (Hybridation moteur, taxiage \xE9lectrique,
-      d\xE9givrage, conditionnement d'air)"
+    m_Localized: "Charges \xE9lectriques de fortes consommations <size=85%>(hybridation
+      moteur, roulage sol, d\xE9givrage, conditionnement d'air)"
     m_Metadata:
       m_Items: []
   references:

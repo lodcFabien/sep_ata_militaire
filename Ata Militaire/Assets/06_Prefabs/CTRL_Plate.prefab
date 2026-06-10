@@ -1358,7 +1358,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1491957532556729386, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -109
+      value: -110
       objectReference: {fileID: 0}
     - target: {fileID: 1491957532556729386, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1392,10 +1392,6 @@ PrefabInstance:
     - target: {fileID: 7154174052275194218, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
       propertyPath: m_SizeDelta.x
       value: 97.29
-      objectReference: {fileID: 0}
-    - target: {fileID: 8611039441622661465, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 3908.4
       objectReference: {fileID: 0}
     - target: {fileID: 8611039441622661465, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -1509,7 +1505,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1491957532556729386, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -39
+      value: -41
       objectReference: {fileID: 0}
     - target: {fileID: 1491957532556729386, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1531,6 +1527,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: CTRL_Voltage_Mid
       objectReference: {fileID: 0}
+    - target: {fileID: 5495112079821436263, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
+      propertyPath: m_StringReference.m_TableEntryReference.m_KeyId
+      value: 152975653241737217
+      objectReference: {fileID: 0}
+    - target: {fileID: 5495112079821436263, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
+      propertyPath: m_StringReference.m_TableReference.m_TableCollectionName
+      value: GUID:4c05b6e9c39e59b4c836029207039a98
+      objectReference: {fileID: 0}
     - target: {fileID: 8611039441622661465, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 100
@@ -1542,44 +1546,8 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 8763947220268190342, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
-      insertIndex: 2
-      addedObject: {fileID: 5114731581014882920}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
---- !u!1 &4290362317960306987 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8763947220268190342, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
-  m_PrefabInstance: {fileID: 4761895094039440301}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &5114731581014882920
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4290362317960306987}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 56eb0353ae6e5124bb35b17aff880f16, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Components.LocalizeStringEvent
-  m_StringReference:
-    m_TableReference:
-      m_TableCollectionName: GUID:4c05b6e9c39e59b4c836029207039a98
-    m_TableEntryReference:
-      m_KeyId: 152975653241737217
-      m_Key: 
-    m_FallbackState: 0
-    m_WaitForCompletion: 0
-    m_LocalVariables: []
-  m_FormatArguments: []
-  m_UpdateString:
-    m_PersistentCalls:
-      m_Calls: []
-  references:
-    version: 2
-    RefIds: []
 --- !u!224 &6242509304434685831 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 1491957532556729386, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
@@ -2150,6 +2118,14 @@ PrefabInstance:
     - target: {fileID: 5294140523689254726, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
       propertyPath: m_Name
       value: CTRL_Voltage_Low
+      objectReference: {fileID: 0}
+    - target: {fileID: 5495112079821436263, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
+      propertyPath: m_StringReference.m_TableEntryReference.m_KeyId
+      value: 152975653241737216
+      objectReference: {fileID: 0}
+    - target: {fileID: 5495112079821436263, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
+      propertyPath: m_StringReference.m_TableReference.m_TableCollectionName
+      value: GUID:4c05b6e9c39e59b4c836029207039a98
       objectReference: {fileID: 0}
     - target: {fileID: 8062982095197382863, guid: 4f08f965ed998304980312cc9a4c32ea, type: 3}
       propertyPath: m_StringReference.m_TableEntryReference.m_KeyId

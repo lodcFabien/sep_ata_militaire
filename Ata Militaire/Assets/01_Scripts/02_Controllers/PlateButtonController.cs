@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.Localization.SmartFormat.Core.Parsing;
 using UnityEngine.UI;
 using static Enums;
 
@@ -18,6 +19,11 @@ public class PlateButtonController : MonoBehaviour
     private void Awake()
     {
         SetSelected(false);
+    }
+
+    private void OnEnable()
+    {
+        OnHoverStop();
     }
 
     public void Click()
@@ -57,5 +63,28 @@ public class PlateButtonController : MonoBehaviour
 
         _normalImage.gameObject.SetActive(!selected);
         _selectImage.gameObject.SetActive(selected);
+    }
+
+    public void OnHoverStart()
+    {
+        if (!_fromMainMenu)
+        {
+            return;
+        }
+
+        _normalImage.gameObject.SetActive(false);
+        _selectImage.gameObject.SetActive(true);
+    }
+
+    public void OnHoverStop()
+    {
+        if (!_fromMainMenu)
+        {
+            return;
+        }
+
+        _normalImage.gameObject.SetActive(true);
+        _selectImage.gameObject.SetActive(false);
+
     }
 }
