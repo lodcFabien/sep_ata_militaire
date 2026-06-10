@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PopupName: GENEUSVFSG_NAME
   Description: GENEUSVFSG_DESC
-  ProductAsset: {fileID: 919132149155446097, guid: 97fad9c8fbb5271419a67662188a6e3a, type: 3}
+  ProductAsset: {fileID: 919132149155446097, guid: ed17a7e838245d24b935dec0da9e6299, type: 3}

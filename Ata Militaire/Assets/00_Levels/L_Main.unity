@@ -8113,19 +8113,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 962379890145497247, guid: d95111765498d2a45998e59db9cb8c29, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 424.9561
+      value: 549.694
       objectReference: {fileID: 0}
     - target: {fileID: 962379890145497247, guid: d95111765498d2a45998e59db9cb8c29, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 298.98
+      value: 365.973
       objectReference: {fileID: 0}
     - target: {fileID: 962379890145497247, guid: d95111765498d2a45998e59db9cb8c29, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 189.11911
+      value: 214.84692
       objectReference: {fileID: 0}
     - target: {fileID: 962379890145497247, guid: d95111765498d2a45998e59db9cb8c29, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -134.49005
+      value: -79.129
       objectReference: {fileID: 0}
     - target: {fileID: 2818890311874627417, guid: d95111765498d2a45998e59db9cb8c29, type: 3}
       propertyPath: m_Color.a
@@ -8213,11 +8213,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4734576217483835663, guid: d95111765498d2a45998e59db9cb8c29, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 807
+      value: 737
       objectReference: {fileID: 0}
     - target: {fileID: 4734576217483835663, guid: d95111765498d2a45998e59db9cb8c29, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -144
+      value: -179
       objectReference: {fileID: 0}
     - target: {fileID: 4734576217483835663, guid: d95111765498d2a45998e59db9cb8c29, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -8930,19 +8930,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 962379890145497247, guid: d95111765498d2a45998e59db9cb8c29, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 424.9561
+      value: 543.88
       objectReference: {fileID: 0}
     - target: {fileID: 962379890145497247, guid: d95111765498d2a45998e59db9cb8c29, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 298.98
+      value: 366.088
       objectReference: {fileID: 0}
     - target: {fileID: 962379890145497247, guid: d95111765498d2a45998e59db9cb8c29, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 189.11911
+      value: 211.94
       objectReference: {fileID: 0}
     - target: {fileID: 962379890145497247, guid: d95111765498d2a45998e59db9cb8c29, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -134.49005
+      value: -78.196
       objectReference: {fileID: 0}
     - target: {fileID: 2818890311874627417, guid: d95111765498d2a45998e59db9cb8c29, type: 3}
       propertyPath: m_Color.a
@@ -9030,11 +9030,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4734576217483835663, guid: d95111765498d2a45998e59db9cb8c29, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 807
+      value: 734
       objectReference: {fileID: 0}
     - target: {fileID: 4734576217483835663, guid: d95111765498d2a45998e59db9cb8c29, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -144
+      value: -182
       objectReference: {fileID: 0}
     - target: {fileID: 4734576217483835663, guid: d95111765498d2a45998e59db9cb8c29, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -9860,6 +9860,14 @@ PrefabInstance:
       value: "Charges de forte puissance (Hybridation moteur, taxiage \xE9lectrique,
         d\xE9givrage, conditionnement d'air)"
       objectReference: {fileID: 0}
+    - target: {fileID: 3077540287919509405, guid: 3176b7e8eea79ea439fc621b048919dd, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 738
+      objectReference: {fileID: 0}
+    - target: {fileID: 3077540287919509405, guid: 3176b7e8eea79ea439fc621b048919dd, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -179
+      objectReference: {fileID: 0}
     - target: {fileID: 4477786989984262215, guid: 3176b7e8eea79ea439fc621b048919dd, type: 3}
       propertyPath: m_text
       value: 270V
@@ -9983,6 +9991,22 @@ PrefabInstance:
     - target: {fileID: 6671181086071391396, guid: 3176b7e8eea79ea439fc621b048919dd, type: 3}
       propertyPath: m_fontColor32.rgba
       value: 4293185581
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375213951830566413, guid: 3176b7e8eea79ea439fc621b048919dd, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 552.84
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375213951830566413, guid: 3176b7e8eea79ea439fc621b048919dd, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 363.479
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375213951830566413, guid: 3176b7e8eea79ea439fc621b048919dd, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 216.42
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375213951830566413, guid: 3176b7e8eea79ea439fc621b048919dd, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -78.479965
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
