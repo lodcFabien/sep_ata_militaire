@@ -202,14 +202,13 @@ MonoBehaviour:
   - m_Id: 152939225816354816
     m_Localized: "Le GENeUS VFSG repr\xE9sente une avanc\xE9e majeure dans le domaine
       des g\xE9n\xE9rateurs \xE0 fr\xE9quence variable utilisant des machines synchrones
-      \xE0 rotor bobin\xE9. \n\nContrairement \xE0 de nombreuses solutions concurrentes,
+      \xE0 rotor bobin\xE9.\n\nContrairement \xE0 de nombreuses solutions concurrentes,
       il ne recourt \xE0 aucun aimant en terres rares dans le rotor principal. Il
-      alimente les r\xE9seaux 115V et 230V de la plateforme. \n\nPar rapport \xE0
-      la concurrence, il offre au march\xE9 une r\xE9duction de 50 % des pertes,
-      tout en offrant un gain significatif en poids et en encombrement. R\xE9sultat
-      : une am\xE9lioration notable de l'efficacit\xE9 \xE9nerg\xE9tique des machines.\n\n\u2022
-      Rotor principal sans utilisation de terres rares\n\n\u2022 Configurable en
-      mode 115/230V\n\n\u2022 Qualit\xE9 de puissance exceptionnelle "
+      alimente les r\xE9seaux 115V et 230V de la plateforme.\n\nIl offre un gain
+      significatif en poids et en encombrement. R\xE9sultat : une am\xE9lioration
+      notable de l'efficacit\xE9 \xE9nerg\xE9tique des machines.\n\n\_\u2022 Rotor
+      principal sans utilisation de terres rares\n\n\_\u2022 Configurable en mode
+      115/230V\n\n\_\u2022 Qualit\xE9 de puissance exceptionnelle"
     m_Metadata:
       m_Items: []
   - m_Id: 152947474955358208

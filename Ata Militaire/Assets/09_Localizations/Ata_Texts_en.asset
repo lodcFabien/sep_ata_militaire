@@ -176,13 +176,12 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 152939225816354816
     m_Localized: "GENeUS VFSG represents a major breakthrough in variable frequency
-      generator technology using synchronous machines with wound rotors. \n\nIt does
+      generator technology using synchronous machines with wound rotors.\n\nIt does
       not incorporate rare earth magnets in the main rotor. The generator supplies
-      both 115V and 230V networks on the platform. \n\nCompared to competitors, it
-      offers a 50% reduction in losses and enhances competitiveness in terms of weight
-      and size, while increasing the energy efficiency of the machines. \n\n\u2022
-      Main rotor is magnet-free\n\n\u2022 Configurable in 115V/230V modes\n\n\u2022
-      Outstanding power quality"
+      both 115V and 230V networks on the platform.\n\_\nIt enhances competitiveness
+      in terms of weight and size, while increasing the energy efficiency of the
+      machines.\n\n\_\u2022 Main rotor is magnet-free\n\n\_\u2022 Configurable in
+      115V/230V modes\n\n\_\u2022 Outstanding power quality"
     m_Metadata:
       m_Items: []
   - m_Id: 152947474955358208
